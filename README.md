@@ -1,5 +1,5 @@
 # pyupio-safety-check
-## How to run
+## How to use Safety to check Security dependencies
 ```
-
+pip install Safety
 ```
