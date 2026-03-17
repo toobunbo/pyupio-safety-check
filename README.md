@@ -1,4 +1,4 @@
-# How to use Safety to check Security dependencies (example: pyproject.toml)
+# How to use Safety to check Security dependencies 
 ## Set up Safety
 ```
 pip install safety
