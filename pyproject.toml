@@ -1,0 +1,15 @@
+[project]
+name = "test-project"
+version = "0.1.0"
+dependencies = [
+    "requests",
+]
+
+[[tool.uv.index]]
+url = "https://pkgs.safetycli.com/repository/public/pypi/simple/"
+default = true
+
+[[tool.uv.index]]
+name = "safety"
+url = "http://10.148.0.2:8888/simple"
+explicit = false
